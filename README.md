@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Pixel art GIF - retro computer/coding themed -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDR3aHVhcW93YnZhMXpxaGZhNXdyeGc4bXJkbGZteXBxMmFqcGkwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
+<img src="https://raw.githubusercontent.com/Satyam-madeit/Satyam-madeit/main/programminggif-ezgif.com-video-to-gif-converter.gif" width="450" />
 
 <!-- Animated typing header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Satyam+%F0%9F%91%8B;Data+Analyst+%7C+Python+Dev;Building+dashboards+%26+ML+models;Freelancing+%40+heymaya.pro)](https://git.io/typing-svg)
