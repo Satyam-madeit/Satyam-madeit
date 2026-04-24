@@ -22,12 +22,12 @@
 
 ```python
 satyam = {
-    "role":       "Freelance Data Analyst & Python Dev",
+    "role":       "Freelance Data Analyst & Python AI/ML Dev",
     "location":   "Patna, India 🇮🇳",
     "stack":      ["Python", "XGBoost", "Pandas", "Plotly", "Scikit-learn"],
     "currently":  "Building ML models & client dashboards",
-    "contact":    "heymaya.pro",
-    "fun_fact":   "My Instagram comment got 4k likes once 💀"
+    "contact":    "satyamsrivastava202@gmail.com",
+    "fun_fact":   "I am full of fun facts"
 }
 ```
 
