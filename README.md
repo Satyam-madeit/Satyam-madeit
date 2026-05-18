@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/Satyam-madeit/Satyam-madeit/main/programminggif-ezgif.com-optimize.gif" width="450" />
 
 <!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Satyam+%F0%9F%91%8B;Data+Analyst+%7C+Python+Dev;Building+dashboards+%26+ML+models;Freelancing+%40+heymaya.pro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=600&color=15B339&width=435&lines=Building+Machine+Learning+Models%F0%9F%96%A5%EF%B8%8F;Working+With+Data%F0%9F%93%8A;Building+Web+Apps%F0%9F%8E%9E%EF%B8%8F;CHILLING+!%F0%9F%A7%8A)](https://git.io/typing-svg)
 
 <!-- Colorful social badges -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamsrivastava202@gmail.com)
@@ -27,7 +27,7 @@ satyam = {
     "stack":      ["Python", "XGBoost", "Pandas", "Plotly", "Scikit-learn"],
     "currently":  "Building ML models & client dashboards",
     "contact":    "satyamsrivastava202@gmail.com",
-    "fun_fact":   "I am full of fun facts"
+    "hobby":   "Video Games"
 }
 ```
 
@@ -47,6 +47,7 @@ satyam = {
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MongoDB](https://shields.io)
 
 </div>
 
