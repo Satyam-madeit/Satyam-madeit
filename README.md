@@ -22,10 +22,10 @@
 
 ```python
 satyam = {
-    "role":       "Freelance Data Analyst & Python AI/ML Dev",
+    "role":       "Data Analyst & Python AI/ML Dev",
     "location":   "Patna, India 🇮🇳",
-    "stack":      ["Python", "XGBoost", "Pandas", "Plotly", "Scikit-learn"],
-    "currently":  "Building ML models & client dashboards",
+    "stack":      ["Python", "XGBoost", "Pandas", "Plotly", "Scikit-learn", "MongoDB"],
+    "currently":  "Building ML models & Web-apps",
     "contact":    "satyamsrivastava202@gmail.com",
     "hobby":   "Video Games"
 }
